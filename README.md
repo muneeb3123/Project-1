@@ -1,28 +1,5 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-Modify this file to match your project and remove sections that don't apply.
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-OPTIONAL SECTIONS:
-- FAQ
-After you're finished please remove all the comments and instructions!
--->
-
-
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -49,8 +26,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Portfolio-setup] <a name="about-project"></a>
-
+# 📖 [HELLO-MICROVERSE] <a name="about-project"></a>
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -81,9 +57,12 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
+> Describe between 1-3 key features of the application.
+
 - **It has linters**
 - **It has MIT license**
-- **Best portfolio ever**
+- **It has html**
+- **It has CSS**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,7 +70,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://nxn404-n.github.io)
+- [Live Demo Link](https://muneeb3123.github.io/Project-1/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,7 +81,6 @@ After you're finished please remove all the comments and instructions!
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
-
 In order to run this project you need:
 
 Step 1: if you don't have git installed on your machine you can download it from [here](https://git-scm.com/downloads).
@@ -121,7 +99,6 @@ Step 2: Locate the folder where you cloned your project to and open the `index.h
 <!-- AUTHORS -->
 
 ## 👥 Author <a name="authors"></a>
-
 
 👤 Muneeb UR Rehman
 
@@ -151,17 +128,13 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
@@ -171,8 +144,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE.md) licensed.
-
+This project is [MIT](./LICENSE) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
