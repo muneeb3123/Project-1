@@ -1,13 +1,9 @@
-<<<<<<< HEAD
-=======
 <a name="readme-top"></a>
 
 <!--
 HOW TO USE:
 This is an example of how you may give instructions on setting up your project locally.
-
 Modify this file to match your project and remove sections that don't apply.
-
 REQUIRED SECTIONS:
 - Table of Contents
 - About the Project
@@ -20,21 +16,12 @@ REQUIRED SECTIONS:
 - Show your support
 - Acknowledgements
 - License
-
 OPTIONAL SECTIONS:
 - FAQ
-
 After you're finished please remove all the comments and instructions!
 -->
 
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
 
 <!-- TABLE OF CONTENTS -->
 
@@ -62,17 +49,12 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello-Microverse] <a name="about-project"></a>
+# 📖 [Portfolio-setup] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
-**[Hello-Microverse]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
@@ -99,11 +81,9 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **It has linters**
+- **It has MIT license**
+- **Best portfolio ever**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,9 +91,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
+- [Live Demo Link](https://nxn404-n.github.io)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,115 +99,41 @@ After you're finished please remove all the comments and instructions!
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
-
 To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
 In order to run this project you need:
 
-<!--
-Example command:
+Step 1: if you don't have git installed on your machine you can download it from [here](https://git-scm.com/downloads).
 
-```sh
- gem install rails
-```
- -->
+Once you have git installed on your machine you can clone your project by running the command below to clone your project to your local machine
 
-### Setup
 
-Clone this repository to your desired folder:
+`git clone https://github.com/nxn404-n/Portfolio-setup.git`
 
-<!--
-Example commands:
+Alternatively, you can download the zip file of your project by clicking on the `Code` button on the right side of your project page and clicking on `Download ZIP`
 
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
-
-### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
-### Usage
-
-To run the project, execute the following command:
-
-<!--
-Example command:
-
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
+Step 2: Locate the folder where you cloned your project to and open the `index.html` file in your browser to view your project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Author <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 Muneeb UR Rehman
 
-- GitHub: (https://github.com/muneeb3123)
+- GitHub: [@muneeb3123](https://github.com/muneeb3123)
 - Twitter: [@Hafizabd4](https://twitter.com/Hafizabd4)
 - LinkedIn: (https://www.linkedin.com/in/muneeb-rehman-01b6bb193/)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **It has a HTML file**
-- [ ] **It has a CSS file**
-- [ ] **It has a .gitignore file**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -247,9 +151,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
-If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -257,25 +158,12 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -288,4 +176,3 @@ This project is [MIT](./LICENSE.md) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
->>>>>>> 955bb0b26f569285407ffe397c832094bdf0bedc
