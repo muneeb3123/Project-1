@@ -138,7 +138,7 @@ Feel free to check the [issues page](../../issues/).
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-**I would like to thank the reviewer who review my code honestly to improve my skills**
+I would like to thank the reviewer who review my code honestly to improve my skills
 
 
 
