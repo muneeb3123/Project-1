@@ -110,6 +110,9 @@ Step 2: Locate the folder where you cloned your project to and open the `index.h
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
+- **CSS framework designing**
+- **More detailed**
+- **Master HTML**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,6 +129,7 @@ Feel free to check the [issues page](../../issues/).
 <!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
+**please show your support to improve my skills .this will help me to work hard**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,16 +138,15 @@ Feel free to check the [issues page](../../issues/).
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+**I would like to thank the reviewer who review my code honestly to improve my skills**
 
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./LICENSE.md) licensed.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
